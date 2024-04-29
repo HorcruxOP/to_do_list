@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ScreenShots of the App:
-<img src="images1.png" height="300em" /><img src="images2.png" height="300em" /><img src="images3.png" height="300em" /><img src="images4.png" height="300em" />
+<img src="image1.png" height="300em" /><img src="image2.png" height="300em" /><img src="image3.png" height="300em" /><img src="image4.png" height="300em" />
 
 
